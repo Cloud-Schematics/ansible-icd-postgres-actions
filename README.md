@@ -38,7 +38,7 @@ You must retrieve the following values to run the playbook in IBM Cloud Schemati
 5. Expand the **Advanced options**.
 6. Enter all required input variables as key-value pairs. Then, click **Next**.
    
-   ![Schematics action input variables overview](/images/action_iput_parameters.png)
+   ![Schematics action input variables overview](/images/action_input_parameters.png)
    
 7. Click **Check action** to verify your action details. The **Jobs** page opens automatically. You can view the results of this check by looking at the logs.
 8. Click **Run action** to configure the WAL2JSON plug-in for the specified database in your IBM Cloud Databases for PostgreSQL instance. You can monitor the progress of this action by reviewing the logs on the **Jobs** page.
